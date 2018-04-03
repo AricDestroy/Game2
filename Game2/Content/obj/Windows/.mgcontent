@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/aricd/source/repos/Game2/Game2/Content/MainFont.spritefont</File>
+    <File>C:/Users/aricd/source/repos/Game2/Game2/Content/button.png</File>
+    <File>C:/Users/aricd/source/repos/Game2/Game2/Content/cool.mp3</File>
+    <File>C:/Users/aricd/source/repos/Game2/Game2/Content/explode.wav</File>
+    <File>C:/Users/aricd/source/repos/Game2/Game2/Content/meteor.png</File>
+    <File>C:/Users/aricd/source/repos/Game2/Game2/Content/ship.png</File>
+    <File>C:/Users/aricd/source/repos/Game2/Game2/Content/techno.mp3</File>
+  </SourceFiles>
+</SourceFileCollection>
